@@ -1,0 +1,12 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.container{
+    background-color: #f2f2f2;
+}
+.footer{
+  background-color: aliceblue !important;
+  min-height: 4vh;
+  text-align: center;
+}
